@@ -1,0 +1,2 @@
+rootProject.name='WasCo-19'
+include ':app'
